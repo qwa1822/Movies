@@ -10,7 +10,6 @@
 >영화상세페이지 추가
 >
 
-![image](https://github.com/qwa1822/Movies/assets/58835205/000a6c8f-21e3-4506-9bd5-8dce75867c1f)
 
 
 
@@ -23,4 +22,10 @@
 
 
 
+![image](https://github.com/qwa1822/Movies/assets/58835205/396d5656-3e53-4849-b3d7-4349c871fac2)
+
+
+
+### 다크모드및 화이트모드 구현완료
 ![Uploading image.png…]()
+![image](https://github.com/qwa1822/Movies/assets/58835205/000a6c8f-21e3-4506-9bd5-8dce75867c1f)

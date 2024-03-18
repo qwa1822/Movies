@@ -17,10 +17,13 @@ function MovieList({ apiPath, title }) {
   return (
     <main>
       <section className="max-w-7xl mx-auto py-7">
-        <div className="md:grid   md:grid-cols-4 flex justify-center   flex-wrap">
-          {movies.length > 0 &&
-            movies.map(item => <Card movie={item} key={item.id} />)}
-        </div>
+        {movies.length && (
+          <div className="md:grid   md:grid-cols-4 flex justify-center   flex-wrap">
+            {movies.map(item => (
+              <Card key={item.id} movie={item}></Card>
+            ))}
+          </div>
+        )}
       </section>
     </main>
   );

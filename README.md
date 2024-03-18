@@ -6,6 +6,9 @@
 
 ### 영화검색사이트!
 
+
+<h2>https://gleeful-chaja-2f503b.netlify.app/</h2>
+
 >검색기능추가, 다크모드추가
 >영화상세페이지 추가
 >
